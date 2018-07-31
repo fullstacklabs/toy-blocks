@@ -18,9 +18,9 @@ For the client programming challenge you will contribute a feature to one of the
 
 The following nodes are deployed for use during the client programming challenge. Each one is preloaded with a different starting blockchain.
 
-- [Thawing Springs](https://thawing-springs-53971.herokuapp.com)
-- [Secret Lowlands](https://secret-lowlands-62331.herokuapp.com)
-- [Calm Anchorage](https://calm-anchorage-82141.herokuapp.com)
+- [Thawing Springs](https://thawing-springs-53971.herokuapp.com/api/v1/status)
+- [Secret Lowlands](https://secret-lowlands-62331.herokuapp.com/api/v1/status)
+- [Calm Anchorage](https://calm-anchorage-82141.herokuapp.com/api/v1/status)
 
 Each node supports the following requests that will be used in the client challenge:
 
