@@ -14,7 +14,14 @@ For the client programming challenge you will contribute a feature to one of the
 - [Angular Web Client](https://github.com/fullstacklabs/toy-blocks-client-angular)
 - [React Native Mobile Client](https://github.com/fullstacklabs/toy-blocks-client-react-native)
 
-## Nodes
+## Servers
+
+The following server implementations of the toy block node are available:
+
+- [Ruby on Rails API Server](https://github.com/fullstacklabs/toy-blocks-api-rails)
+- [Node Express API Server](https://github.com/fullstacklabs/toy-blocks-api-express)
+
+## Live Nodes
 
 The following nodes are deployed for use during the client programming challenge. Each one is preloaded with a different starting blockchain.
 
@@ -23,7 +30,6 @@ The following nodes are deployed for use during the client programming challenge
 - [Calm Anchorage](https://calm-anchorage-82141.herokuapp.com/api/v1/status)
 
 Each node supports the following requests that will be used in the client challenge:
-
 
 ### Status
 ```
